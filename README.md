@@ -34,3 +34,11 @@ Conecte-se comigo!
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white">
   <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white">
 </p>
+
+
+## Certificações
+
+| Certificação | Nome |
+| --- | --- |
+| ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&logoColor=black&color=white) | Cisco NetAcademy Introduction to Networks |
+| ![CCNA ITN](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=black&labelColor=yellow&color=white) | AWS Academy Cloud Foundations |
