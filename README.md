@@ -51,3 +51,13 @@ Conecte-se comigo!
 - Infraestrutura em nuvem utilizando AWS e Azure 
 - Cabeamento estruturado baseado em empresas reais
 - Infraestrutura de Redes no Packet Tracer
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LuaneP&theme=icegray&hide_border=true&short_numbers=true&mode=weekly">
+</p>
+
+## Conecte-se comigo!
+
+<p align="center">
+  <a href ="https://www.linkedin.com/in/luanepatricio/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+</p>
