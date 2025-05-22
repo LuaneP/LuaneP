@@ -61,3 +61,10 @@ Conecte-se comigo!
 <p align="center">
   <a href ="https://www.linkedin.com/in/luanepatricio/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
 </p>
+
+<h4 align="center">
+  OBRIGADO POR VISITAR!
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=LuaneP">
+  </div>
+</h4>
