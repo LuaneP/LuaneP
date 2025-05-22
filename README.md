@@ -42,3 +42,12 @@ Conecte-se comigo!
 | --- | --- |
 | ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&logoColor=black&color=white) | Cisco NetAcademy Introduction to Networks |
 | ![AWS](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=black&labelColor=yellow&color=white) | AWS Academy Cloud Foundations |
+
+---
+
+## Projetos
+- Casa Inteligente voltada aos PCDs
+- Monitoramento On-premisses com o uso de Zabbix & Grafana
+- Infraestrutura em nuvem utilizando AWS e Azure 
+- Cabeamento estruturado baseado em empresas reais
+- Infraestrutura de Redes no Packet Tracer
